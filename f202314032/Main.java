@@ -3,5 +3,6 @@ public class Main {
         System.out.println("배유진");
         World.run();
         World.run2();
+        Hello.run();
     }
 }
